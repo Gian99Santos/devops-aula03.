@@ -1,4 +1,6 @@
-# Ferramentas de versão:
+# Ferramentas de controle de versão:
+* Mercurial
+* Git
 * GitHub
 * Subversion
 * Mercurial
